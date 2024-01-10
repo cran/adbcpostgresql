@@ -1,6 +1,6 @@
-af331f09b6a71d93312288627e137502 *DESCRIPTION
+3e76fdbf3b3be0838dd41bbba465ce71 *DESCRIPTION
 9299289f4506e8cd197fa2b0619dcb2a *NAMESPACE
-d1ff7953d8503e6022c3627762485b36 *NEWS.md
+880c9c4f27071f8717c01d161c6a321d *NEWS.md
 2b19590b8fb6ad5cb42e873a8fbe7b9a *R/adbcpostgresql-package.R
 9844bc3a6a2be806cd74eaf55adafd94 *README.md
 d2afa11120385383721d4e0383d90f6b *cleanup
@@ -15,7 +15,7 @@ d2afa11120385383721d4e0383d90f6b *cleanup
 5ca4f7885421b88d989afe2f202f7558 *src/common/options.h
 b2078d9bab117206ab943e07e98e29e5 *src/common/utils.c
 4da90d767460ca602a2c7f2c7cd75e08 *src/common/utils.h
-dd8b2c030ee27b5cfc11d948fe77a807 *src/connection.cc
+8b3e01d5d58831d31afa7d3ebf513e44 *src/connection.cc
 b8a3a6b5f6843c367f4377b7ca54c578 *src/connection.h
 3a7ac91aa2c0b20d1e1c297ab15abdb8 *src/database.cc
 e6007bd0a4dbe848e8faf28f406f39c9 *src/database.h
@@ -25,15 +25,14 @@ d62c09f62cbc1c2753e1e39cff71af53 *src/init.c
 1f452910b2e6f5db5f93647723361af9 *src/nanoarrow/nanoarrow.c
 223e419d88ef73dfb5b7cf7dc7f7cc6a *src/nanoarrow/nanoarrow.h
 da4255f10c46e21ba81ed71b3d86a78b *src/nanoarrow/nanoarrow.hpp
-ae5066d737b0ee3a0def94cd91b5b43e *src/postgres_copy_reader.h
-63c67d99c92c6696d59f303054cc1c6a *src/postgres_type.h
-b3b9511d66043cb8402f2912f4d9201e *src/postgres_util.h
+028f5fdd03a0ded534f7dec6941716bf *src/postgres_copy_reader.h
+db0d204eef9a3e3d394d712a873a8b62 *src/postgres_type.h
+43056ea26207aef2e4cc5c3283942681 *src/postgres_util.h
 2cb4bb776e133818708e485a072c2a21 *src/postgresql.cc
 174e62b472ba7ae16cce2d58fe6a00c1 *src/result_helper.cc
 2c81a998e2a341d0197845102a72fcd1 *src/result_helper.h
-1e3f707207221caa3af0ca7a3c674632 *src/statement.cc
+66aba4a31e5cb9ba8371b34a4418d00a *src/statement.cc
 4fe3eeed032a1318c4a791c6386dff65 *src/statement.h
-471de6c138a4e4cd0f2b5a3af8c605a0 *src/vendor/portable-snippets/safe-math.h
 0c189c6b5f260e4cd8cec39b98d3dd2c *tests/testthat.R
 c54d0ea6575e3e26557b0d8b49e2d612 *tests/testthat/test-adbcpostgres-package.R
 1c3fd379160f03dbe170993d2afe1ea8 *tools/test.c
