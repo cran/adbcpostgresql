@@ -1,4 +1,4 @@
-3e76fdbf3b3be0838dd41bbba465ce71 *DESCRIPTION
+542846fd01dc88b19f3237a7c01ec64c *DESCRIPTION
 9299289f4506e8cd197fa2b0619dcb2a *NAMESPACE
 880c9c4f27071f8717c01d161c6a321d *NEWS.md
 2b19590b8fb6ad5cb42e873a8fbe7b9a *R/adbcpostgresql-package.R
@@ -9,7 +9,7 @@ d2afa11120385383721d4e0383d90f6b *cleanup
 5980cb3f988280af6511b9bda1cfb93d *man/adbcpostgresql-package.Rd
 4d040c298950df5c7a39e071628db37e *man/adbcpostgresql.Rd
 91a093597377db665723b1eef5856ac5 *src/Makevars.in
-3b8d314e32b3d74000810e7c392c0526 *src/Makevars.ucrt
+8e4f5c4a71b68a4a3fbe9e8c3ea1b13c *src/Makevars.ucrt
 0e3fdd60917023c2c565294d00422190 *src/Makevars.win
 35d345fa91749a24c11d8d1ec9498f61 *src/adbc.h
 5ca4f7885421b88d989afe2f202f7558 *src/common/options.h
