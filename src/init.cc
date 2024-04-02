@@ -21,6 +21,7 @@
 
 #include <adbc.h>
 
+extern "C" {
 AdbcStatusCode AdbcDriverInit(int version, void* raw_driver, struct AdbcError* error);
 
 static SEXP init_func_xptr = 0;
@@ -40,4 +41,5 @@ void R_init_adbcpostgresql(DllInfo* dll) {
   Rf_setAttrib(init_func_xptr, R_ClassSymbol, Rf_mkString("adbc_driver_init_func"));
   R_PreserveObject(init_func_xptr);
   UNPROTECT(1);
+}
 }
