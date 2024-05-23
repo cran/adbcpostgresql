@@ -1,7 +1,7 @@
-33279e8949a0a280bb912c6c90ac52bc *DESCRIPTION
+d6135716e4d085947499eb312ca5fa77 *DESCRIPTION
 9299289f4506e8cd197fa2b0619dcb2a *NAMESPACE
 2b19590b8fb6ad5cb42e873a8fbe7b9a *R/adbcpostgresql-package.R
-9844bc3a6a2be806cd74eaf55adafd94 *README.md
+4b26105dc132ec545ba6e8761aa6edf2 *README.md
 9614b6619f57a35882c8a42b808e7377 *cleanup
 0cc2f924246bff268c01cb1b603c125b *cleanup.win
 3e5251233100ad46bc4817da21faf833 *configure
@@ -10,8 +10,8 @@ dc399a7780aace2192bfaf761627774a *man/adbcpostgresql-package.Rd
 cb3b156feaf9f2dc52edea2ada6da082 *src/Makevars.in
 2e07618c5df116c318940b7e13676b72 *src/Makevars.ucrt
 07c868a49c995bfb6dc47a79b6fea6eb *src/Makevars.win
-35d345fa91749a24c11d8d1ec9498f61 *src/adbc.h
-5ca4f7885421b88d989afe2f202f7558 *src/c/driver/common/options.h
+f25f3b0127044dd2b265f464f27621dc *src/adbc.h
+6a89dcbd7b72a96f4cbe2413b9336673 *src/c/driver/common/options.h
 6b42fee749103a27a71f56f1ce2215ab *src/c/driver/common/utils.c
 9b5a985d947bebbf39cc55607f598fc3 *src/c/driver/common/utils.h
 433f0d901abb691801a72625dfbf8754 *src/c/driver/framework/catalog.cc
@@ -20,13 +20,13 @@ bb9f3503665183155ea73d0685ddb246 *src/c/driver/framework/status.h
 99b9cfcb377e7ec63c7c3df62c8a3794 *src/c/driver/postgresql/connection.cc
 b8a3a6b5f6843c367f4377b7ca54c578 *src/c/driver/postgresql/connection.h
 8ad888d85c927515debfd51b5208e1e9 *src/c/driver/postgresql/copy/copy_common.h
-4e5bcfc79b778a3c437db587a156e11d *src/c/driver/postgresql/copy/reader.h
+ccf87761062e031623fd2d4ffd40c30e *src/c/driver/postgresql/copy/reader.h
 d3331f63c021295f94e1a01f20a677cd *src/c/driver/postgresql/copy/writer.h
 8e3c480a14cb227c5111f8dddcfea14c *src/c/driver/postgresql/database.cc
 e6007bd0a4dbe848e8faf28f406f39c9 *src/c/driver/postgresql/database.h
 843ec0506c9f94b95c8ee928396ef436 *src/c/driver/postgresql/error.cc
 e67f3fba125739d3d2c7f06abedcf16d *src/c/driver/postgresql/error.h
-41924c807824682564120704cdb01d04 *src/c/driver/postgresql/postgres_type.h
+e8c8265a5af5c77a67d1a3d6d8f3485b *src/c/driver/postgresql/postgres_type.h
 f07a4bd710b45604c8365559a781700d *src/c/driver/postgresql/postgres_util.h
 0ade78a7bf45e2116436c98437bf5db0 *src/c/driver/postgresql/postgresql.cc
 b745fb4a3b0673e1551c8a0faf3191ed *src/c/driver/postgresql/result_helper.cc
