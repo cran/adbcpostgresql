@@ -1,6 +1,6 @@
 Package: adbcpostgresql
 Title: 'Arrow' Database Connectivity ('ADBC') 'PostgreSQL' Driver
-Version: 0.12.0
+Version: 0.13.0
 Authors@R: c(
       person("Dewey", "Dunnington", , "dewey@dunnington.ca", role = c("aut", "cre"),
              comment = c(ORCID = "0000-0002-9415-4582")),
@@ -24,10 +24,10 @@ URL: https://github.com/apache/arrow-adbc,
 BugReports: https://github.com/apache/arrow-adbc/issues
 Imports: adbcdrivermanager
 NeedsCompilation: yes
-Packaged: 2024-05-23 02:07:07 UTC; deweydunnington
+Packaged: 2024-07-09 03:22:07 UTC; deweydunnington
 Author: Dewey Dunnington [aut, cre] (<https://orcid.org/0000-0002-9415-4582>),
   Apache Arrow [aut, cph],
   Apache Software Foundation [cph]
 Maintainer: Dewey Dunnington <dewey@dunnington.ca>
 Repository: CRAN
-Date/Publication: 2024-05-23 02:30:02 UTC
+Date/Publication: 2024-07-09 07:50:01 UTC
