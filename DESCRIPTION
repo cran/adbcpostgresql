@@ -1,6 +1,6 @@
 Package: adbcpostgresql
 Title: 'Arrow' Database Connectivity ('ADBC') 'PostgreSQL' Driver
-Version: 0.14.0
+Version: 0.15.0
 Authors@R: c(
       person("Dewey", "Dunnington", , "dewey@dunnington.ca", role = c("aut", "cre"),
              comment = c(ORCID = "0000-0002-9415-4582")),
@@ -14,20 +14,20 @@ Description: Provides a developer-facing interface to the 'Arrow' Database
   sets and query parameters.
 License: Apache License (>= 2)
 Encoding: UTF-8
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 SystemRequirements: libpq
 Suggests: nanoarrow, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Config/build/bootstrap: TRUE
-URL: https://github.com/apache/arrow-adbc,
-        https://arrow.apache.org/adbc/current/r/adbcpostgresql/
+URL: https://arrow.apache.org/adbc/current/r/adbcpostgresql/,
+        https://github.com/apache/arrow-adbc
 BugReports: https://github.com/apache/arrow-adbc/issues
 Imports: adbcdrivermanager
 NeedsCompilation: yes
-Packaged: 2024-09-05 23:43:17 UTC; deweydunnington
+Packaged: 2024-11-14 23:34:27 UTC; deweydunnington
 Author: Dewey Dunnington [aut, cre] (<https://orcid.org/0000-0002-9415-4582>),
   Apache Arrow [aut, cph],
   Apache Software Foundation [cph]
 Maintainer: Dewey Dunnington <dewey@dunnington.ca>
 Repository: CRAN
-Date/Publication: 2024-09-06 07:50:06 UTC
+Date/Publication: 2024-11-14 23:50:06 UTC
