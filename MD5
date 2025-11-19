@@ -1,4 +1,4 @@
-015cd90fa5a9f2be95500984fc9a5771 *DESCRIPTION
+7981b72ada60c7406d71636d681a6d96 *DESCRIPTION
 9299289f4506e8cd197fa2b0619dcb2a *NAMESPACE
 2b19590b8fb6ad5cb42e873a8fbe7b9a *R/adbcpostgresql-package.R
 4b26105dc132ec545ba6e8761aa6edf2 *README.md
@@ -7,9 +7,9 @@
 a9e74a9d632f92ed389a25acc8eae467 *configure
 6441efce8edb62f9bdf1c8e942606d7d *man/adbcpostgresql-package.Rd
 4d040c298950df5c7a39e071628db37e *man/adbcpostgresql.Rd
-f1aab0c27d417e61d4e1abd7d164163c *src/Makevars.in
-7075c88000111008f62aecd4ad1d1d9b *src/Makevars.ucrt
-43fac759b895ea5dff57be068ad5deca *src/Makevars.win
+251483ff11a3208d5aa8521ec9139558 *src/Makevars.in
+cd23894f0a34461671a3b5835d17e2f7 *src/Makevars.ucrt
+203f2d767fb389b14408c5bda243de57 *src/Makevars.win
 6a89dcbd7b72a96f4cbe2413b9336673 *src/c/driver/common/options.h
 04cc5174dc05a6b7bab6eede4fb33fa6 *src/c/driver/common/utils.c
 c99588c642a69ea50c97a39e9db281b0 *src/c/driver/common/utils.h
@@ -23,12 +23,12 @@ e8811c537d6e6bda39c8953c7a50229b *src/c/driver/framework/objects.cc
 82cf617a89571d2063e29cc5243c29b1 *src/c/driver/framework/type_fwd.h
 7dec2af2df6551fdbc9f7117febf5660 *src/c/driver/framework/utility.cc
 a6ae1db4f2bbf3a65feb48a50f742c67 *src/c/driver/framework/utility.h
-9df901cbd19f29e18f7f458b9261c0ee *src/c/driver/postgresql/bind_stream.h
+f301face53a32d60ca83c5437cd84a6c *src/c/driver/postgresql/bind_stream.h
 67ce758492f91c4cfb2e752cc75cd856 *src/c/driver/postgresql/connection.cc
 b2cdadff9792c55e7050b381d88008bb *src/c/driver/postgresql/connection.h
 8ad888d85c927515debfd51b5208e1e9 *src/c/driver/postgresql/copy/copy_common.h
 27e8a1f919187f48b6e9708f82d4eae8 *src/c/driver/postgresql/copy/postgres_copy_test_common.h
-014b789dda573a498fb6194b65a6e05f *src/c/driver/postgresql/copy/reader.h
+86f8c7d60fe4f3e59dd94d5322e41224 *src/c/driver/postgresql/copy/reader.h
 597ca7dc242d9e1b559b232d497c42e0 *src/c/driver/postgresql/copy/writer.h
 d1da3fe82a9c943ec540bd7c1ba54dec *src/c/driver/postgresql/database.cc
 05ada7a833484a546d54e001acf0b24b *src/c/driver/postgresql/database.h
@@ -42,12 +42,12 @@ f94cd0fd47e9cfc2cc2b6a42f8cd2dd5 *src/c/driver/postgresql/error.h
 9f5e61819e5b1ebce9b6568f1698755c *src/c/driver/postgresql/result_helper.h
 d2282042901e7aca90e959738fedc3f3 *src/c/driver/postgresql/result_reader.cc
 61aaa67d883d1bb109fdaba0a3205535 *src/c/driver/postgresql/result_reader.h
-9d821519cb2b7d80c88f1bb99c349c50 *src/c/driver/postgresql/statement.cc
+ce13305d3d8fbbb087a2603f69a03a55 *src/c/driver/postgresql/statement.cc
 37df13cdead3d43246d3a585801a8752 *src/c/driver/postgresql/statement.h
 c90064ae71ad01a900b662441d753c89 *src/c/driver/sqlite/sqlite.cc
 50a2490667ac9f2b12824b54e682304b *src/c/driver/sqlite/statement_reader.c
 37253189b899407ed5deabd9dacdabdb *src/c/driver/sqlite/statement_reader.h
-58436556155acc3d3d53be66a819e218 *src/c/driver_manager/adbc_driver_manager.cc
+b8bd75a9c381dc8a373023f42eb8bad9 *src/c/driver_manager/adbc_driver_manager.cc
 bb6e52bddcb8812c960b066e578c33ef *src/c/driver_manager/adbc_version_100.c
 1b177a2dc3510a5fa9d8580ba86d82ec *src/c/driver_manager/adbc_version_100.h
 a6aa3fea95a1860144b3ad6c0eddada7 *src/c/driver_manager/current_arch.h
@@ -89,7 +89,7 @@ c3a98b32d5fc6d71f4c45d96af829b68 *src/c/vendor/fmt/src/fmt.cc
 7911fdcaacb47977f8f21342e42eeb42 *src/c/vendor/nanoarrow/nanoarrow.c
 647dd4e0a26cf73a26c74aa63fa76cd6 *src/c/vendor/nanoarrow/nanoarrow.h
 83538b97113b95aaac13331dd0091a89 *src/c/vendor/nanoarrow/nanoarrow.hpp
-2b632d6fd90ba3b317c93dbd85d45390 *src/c/vendor/portable-snippets/safe-math.h
+2b632d6fd90ba3b317c93dbd85d45390 *src/c/vendor/portable-snippets/include/portable-snippets/safe-math.h
 e716b3078f3d6c6627e24627353b0c11 *src/c/vendor/toml++/toml.hpp
 4b65039c3e21bebd9d9760afd7232519 *src/init.cc
 0c189c6b5f260e4cd8cec39b98d3dd2c *tests/testthat.R
