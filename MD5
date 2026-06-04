@@ -1,4 +1,4 @@
-35aa793551cc5f68b61cf52987573fe2 *DESCRIPTION
+ff14e0bd237dd0345ac6bb546e7766a0 *DESCRIPTION
 9299289f4506e8cd197fa2b0619dcb2a *NAMESPACE
 0b1c257ef254dd06fac3329191d356eb *R/adbcpostgresql-package.R
 4b26105dc132ec545ba6e8761aa6edf2 *README.md
@@ -91,9 +91,9 @@ ff6c49d2667b46de866a2ab3a95d537e *src/c/vendor/fmt/include/fmt/std.h
 c3a98b32d5fc6d71f4c45d96af829b68 *src/c/vendor/fmt/src/fmt.cc
 5c07d1da62794a79eaa25135c9aefd77 *src/c/vendor/fmt/src/format.cc
 9b90e961488430bd5c777d08c7d2ed09 *src/c/vendor/fmt/src/os.cc
-a5702fe59a9ea93fee105c4172a732dd *src/c/vendor/nanoarrow/nanoarrow.c
-db6352c25a40eb1cf5c5936df14a9c2f *src/c/vendor/nanoarrow/nanoarrow.h
-fc432022a975304d703a9f2365021eec *src/c/vendor/nanoarrow/nanoarrow.hpp
+0d925481ccd35e5f8ef37cbc4fa5c8e7 *src/c/vendor/nanoarrow/nanoarrow.c
+5ec67c8131b539e693dc917b31ba09fc *src/c/vendor/nanoarrow/nanoarrow.h
+d111686f32ce3740b37aeb4afb557140 *src/c/vendor/nanoarrow/nanoarrow.hpp
 2b632d6fd90ba3b317c93dbd85d45390 *src/c/vendor/portable-snippets/include/portable-snippets/safe-math.h
 e716b3078f3d6c6627e24627353b0c11 *src/c/vendor/toml++/toml.hpp
 4b65039c3e21bebd9d9760afd7232519 *src/init.cc
