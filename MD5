@@ -1,4 +1,4 @@
-8fe05d4c3fa506d47091ef851b441da1 *DESCRIPTION
+f1534239918172b1e2e9b9761413f2dc *DESCRIPTION
 9299289f4506e8cd197fa2b0619dcb2a *NAMESPACE
 0b1c257ef254dd06fac3329191d356eb *R/adbcpostgresql-package.R
 4b26105dc132ec545ba6e8761aa6edf2 *README.md
@@ -47,11 +47,11 @@ c48e1caf1c9addfdebc8b73e773de0e1 *src/c/driver/postgresql/result_helper.cc
 ef87b457c4606c312d22a5b581ad696d *src/c/driver/sqlite/sqlite.cc
 069ecddbae72b2fb17505e8d5e0dc696 *src/c/driver/sqlite/statement_reader.c
 37253189b899407ed5deabd9dacdabdb *src/c/driver/sqlite/statement_reader.h
-a2d8b4868ffe4cf5caa9efe59c382b91 *src/c/driver_manager/adbc_driver_manager.cc
+9f0774903c2752e6f2e6b0953d76eb5c *src/c/driver_manager/adbc_driver_manager.cc
 6155854bf26fa7582b4115ea009f6eb5 *src/c/driver_manager/adbc_driver_manager_api.cc
 eeb804193d5947bad8db955c48ac0649 *src/c/driver_manager/adbc_driver_manager_driver_loading.cc
-9cdb6156f15707c147d708c9d79fa560 *src/c/driver_manager/adbc_driver_manager_internal.h
-7792bae9359bf314aeb511e4874a3e0e *src/c/driver_manager/adbc_driver_manager_profiles.cc
+5a3216d86f49dacbee71fc1e1bf9e258 *src/c/driver_manager/adbc_driver_manager_internal.h
+f434d88989176cc7060a9f2c68ca94e9 *src/c/driver_manager/adbc_driver_manager_profiles.cc
 bb6e52bddcb8812c960b066e578c33ef *src/c/driver_manager/adbc_version_100.c
 1b177a2dc3510a5fa9d8580ba86d82ec *src/c/driver_manager/adbc_version_100.h
 e73d1257c347ed1253a056aee2af0d2a *src/c/driver_manager/current_arch.h
